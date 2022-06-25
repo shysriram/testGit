@@ -1,14 +1,48 @@
 # testGit
-This is my test program.
+This is my test program.<br>
 My markdown instructions:
 # Markdown Cheat Sheet
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+Source: The Markdown Guide (https://www.markdownguide.org)!
 
 
-## Basic Syntax
+
+
+| Syntax      | Syntax |  Syntax  |
+| ----------- | ----------- | ----------- |
+|  ### Heading  |    ## Basic Syntax      | |
+|  # H1  |    ## H2   |### H3 |
+|  ### Bold  |    **bold text**     | ### Italic|
+|  *italicized text*   |         | |
+|  ### Blockquote    |   > blockquote      ||
+| ### Ordered List| 1. First item 2. Second item 3. Third item||
+|### Unordered List|- First item - Second item - Third item||
+|### Code|`code`||
+|### Horizontal Rule| --- ||
+|### Link|[Markdown Guide](https://www.markdownguide.org)||
+|### Image|![alt text](https://www.markdownguide.org/assets/images/tux.png)||
+|### Extended Syntax|These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.||
+|### Table|||
+|### Fenced Code Block| ```{ "firstName": "John","lastName": "Smith","age": 25}``` ||
+|### Footnote|Here's a sentence with a footnote. [^1]||
+|### Heading ID|||
+|### My Great Heading {#custom-id}|||
+|### Definition List|term:definition||
+|### Strikethrough|~~The world is flat.~~||
+|### Task List|- [x] Write the press release - [ ] Update the website - [ ] Contact the media||
+|### Emoji|That is so funny! :joy:||
+|###Highlight|I need to highlight these ==very important words==.||
+|###Subscript|H~2~O||
+|###Superscript|X^2^||
+
+
+
+
+
+
+
 
 ### Heading
-
+## Basic Syntax
 # H1
 ## H2
 ### H3
